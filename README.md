@@ -2,6 +2,8 @@
 
 ![Project screenshot](https://raw.githubusercontent.com/Zacharyjpeter/cc-sleepdebt/main/sleepdebt.png)
 
+## Description
+
 A sleep debt calculator. It helped me practice building functions with conditional statements.
 
 ## Challenges
